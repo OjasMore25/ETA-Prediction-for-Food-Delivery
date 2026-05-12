@@ -86,7 +86,7 @@ To further enhance the ETA predictor:
   - Graph Neural Networks for road networks.  
 
 ### Deployment
-- Package into a **REST API** for real-time ETA prediction.  
+- Package into a **FAST API** for real-time ETA prediction.  
 - Deploy on **cloud platforms (AWS/GCP/Azure)** with autoscaling.  
 
 ### Monitoring & Maintenance
